@@ -1,3 +1,5 @@
+ALGORITHM :
+
 Step 1:- Start
 
 Step 2:- importing the library "time" using import 'time' and import 'time' as 't'.
